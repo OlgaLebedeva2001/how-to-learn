@@ -375,8 +375,6 @@
 }
 
 .footer__column-link {
-  /*margin: auto;*/
-  /*flex-direction: column;*/
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
