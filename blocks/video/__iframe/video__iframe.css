@@ -2,6 +2,9 @@
   margin-right: 20px;
   margin-bottom: -60px;
   border: 0px;
+  width: 515px;
+  height: 316px;
+  z-index: 2;
 }
 
 .video__iframe:last-child {
